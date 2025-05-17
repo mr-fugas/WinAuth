@@ -27,10 +27,10 @@
         <TextBlock Grid.Row="4" Margin="0 0 15 0" Grid.Column="0" Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Right"/>
         <TextBlock Grid.Row="5" Margin="0 0 15 0" Grid.Column="0" Text="Повтор" VerticalAlignment="Center" HorizontalAlignment="Right"/>
 
-        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding LastName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
-        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding FirstName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
-        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding MiddleName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
-        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Login}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Name="textBoxFamily" Grid.Row="0" Grid.Column="1" Text="{Binding LastName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Name="textBoxName" Grid.Row="1" Grid.Column="1" Text="{Binding FirstName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Name="textBoxSecondName" Grid.Row="2" Grid.Column="1" Text="{Binding MiddleName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Name="textBoxLogin" Grid.Row="3" Grid.Column="1" Text="{Binding Login}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
         <PasswordBox Grid.Row="4" Grid.Column="1" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left" Name="PassworBox"/>
         <PasswordBox Grid.Row="5" Grid.Column="1" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left" Name="PassworBoxRepeat"/>
 

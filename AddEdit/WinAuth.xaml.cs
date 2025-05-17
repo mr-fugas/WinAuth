@@ -89,7 +89,9 @@ namespace AddEdit
             MessageBoxResult result = MessageBox.Show("Регистрация возможна только для заказчика. \nПродолжить?","Регитсрация",MessageBoxButton.YesNo,MessageBoxImage.Question);
             if (result == MessageBoxResult.Yes) 
             {
-
+                WinReg winReg = new WinReg();
+                winReg.Show();
+                this.Close();
             }
             else 
             {

@@ -3,51 +3,55 @@
   "WorkspaceRootPath": "C:\\Users\\Student11\\Desktop\\winauth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winauth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winauth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winauth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winauth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winauth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winreg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winreg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winreg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winaddedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winaddedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\wincustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\wincustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\wincustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\wincustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winmanager.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winauth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winauth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winaddedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winaddedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\wincustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\wincustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\wincustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\wincustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winmanager.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winboss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winboss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winboss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winstorekeeper.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winstorekeeper.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winstorekeeper.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winstorekeeper.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winstorekeeper.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winstorekeeper.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winboss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\winboss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winboss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|C:\\Users\\Student11\\Desktop\\winauth\\addedit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|c:\\users\\student11\\desktop\\winauth\\addedit\\winreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D95ED46A-963F-4ABE-9DA5-A48486B07B5F}|AddEdit\\AddEdit.csproj|solutionrelative:addedit\\winreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,16 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "WinReg.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinReg.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinReg.xaml.cs",
-              "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinReg.xaml.cs",
-              "RelativeToolTip": "AddEdit\\WinReg.xaml.cs",
+              "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinReg.xaml.cs*",
+              "RelativeToolTip": "AddEdit\\WinReg.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T04:14:18.702Z",
               "EditorCaption": ""
@@ -110,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "WinManager.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinManager.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinManager.xaml.cs",
@@ -123,19 +124,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "WinStoreKeeper.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinStoreKeeper.xaml",
               "RelativeDocumentMoniker": "AddEdit\\WinStoreKeeper.xaml",
               "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinStoreKeeper.xaml",
               "RelativeToolTip": "AddEdit\\WinStoreKeeper.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-17T03:35:11.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T03:35:11.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WinManager.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinManager.xaml",
               "RelativeDocumentMoniker": "AddEdit\\WinManager.xaml",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WinBoss.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinBoss.xaml",
               "RelativeDocumentMoniker": "AddEdit\\WinBoss.xaml",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "WinCustomer.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinCustomer.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinCustomer.xaml.cs",
@@ -167,12 +167,11 @@
               "RelativeToolTip": "AddEdit\\WinCustomer.xaml.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAApwC0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:26:21.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T03:26:21.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "WinCustomer.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinCustomer.xaml",
               "RelativeDocumentMoniker": "AddEdit\\WinCustomer.xaml",
@@ -184,20 +183,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WinAuth.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinAuth.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinAuth.xaml.cs",
-              "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinAuth.xaml.cs*",
-              "RelativeToolTip": "AddEdit\\WinAuth.xaml.cs*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAnwEQAAACHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinAuth.xaml.cs",
+              "RelativeToolTip": "AddEdit\\WinAuth.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwF0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T03:23:55.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "WinAuth.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinAuth.xaml",
               "RelativeDocumentMoniker": "AddEdit\\WinAuth.xaml",
@@ -209,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WinStoreKeeper.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinStoreKeeper.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinStoreKeeper.xaml.cs",
@@ -217,12 +216,11 @@
               "RelativeToolTip": "AddEdit\\WinStoreKeeper.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:36:09.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T03:36:09.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "winAddEdit.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\winAddEdit.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\winAddEdit.xaml.cs",
@@ -230,12 +228,11 @@
               "RelativeToolTip": "AddEdit\\winAddEdit.xaml.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAIAwwBYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T04:45:44.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T04:45:44.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WinBoss.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\WinBoss.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\WinBoss.xaml.cs",
@@ -243,12 +240,11 @@
               "RelativeToolTip": "AddEdit\\WinBoss.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T03:36:15.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T03:36:15.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Connector.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\Connector.cs",
               "RelativeDocumentMoniker": "AddEdit\\Connector.cs",
@@ -256,24 +252,22 @@
               "RelativeToolTip": "AddEdit\\Connector.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T03:55:00.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T03:55:00.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\Model1.edmx",
               "RelativeDocumentMoniker": "AddEdit\\Model1.edmx",
               "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "AddEdit\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-04-28T04:01:03.889Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-04-28T04:01:03.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "winAddEdit.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\winAddEdit.xaml",
               "RelativeDocumentMoniker": "AddEdit\\winAddEdit.xaml",
@@ -285,18 +279,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AddEdit\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\MainWindow.xaml",
               "RelativeToolTip": "AddEdit\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-28T03:51:08.111Z"
+              "WhenOpened": "2025-04-28T03:51:08.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Student11\\Desktop\\winauth\\AddEdit\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AddEdit\\MainWindow.xaml.cs",
