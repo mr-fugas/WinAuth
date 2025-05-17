@@ -1,0 +1,40 @@
+﻿<Window x:Class="AddEdit.WinReg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddEdit"
+        mc:Ignorable="d"
+        Title="WinReg" Height="450" Width="300" FontSize="30">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Margin="0 0 15 0" Grid.Column="0" Text="Фамилия" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Row="1" Margin="0 0 15 0" Grid.Column="0" Text="Имя" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Row="2" Margin="0 0 15 0" Grid.Column="0" Text="Отчетсво" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Row="3" Margin="0 0 15 0" Grid.Column="0" Text="Логин" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Row="4" Margin="0 0 15 0" Grid.Column="0" Text="Пароль" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <TextBlock Grid.Row="5" Margin="0 0 15 0" Grid.Column="0" Text="Повтор" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding LastName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding FirstName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding MiddleName}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Login}" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left"/>
+        <PasswordBox Grid.Row="4" Grid.Column="1" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left" Name="PassworBox"/>
+        <PasswordBox Grid.Row="5" Grid.Column="1" Width="140"  VerticalAlignment="Center" HorizontalAlignment="Left" Name="PassworBoxRepeat"/>
+
+        <Button Content="Отмена" Grid.Row="6" Margin="5" Name="btn_esc" Click="btn_esc_Click"/>
+        <Button Content="Войти" Grid.Row="6" Grid.Column="1" Margin="5" Name="btn_ent" Click="btn_ent_Click"/>
+    </Grid>
+</Window>

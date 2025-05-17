@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user27ModelContainer" CdmEntityContainer="user27Entities">
+    <EntitySetMapping Name="Agent">
+      <EntityTypeMapping TypeName="user27Model.Agent">
+        <MappingFragment StoreEntitySet="Agent">
+          <ScalarProperty Name="IdAgent" ColumnName="IdAgent" />
+          <ScalarProperty Name="TypeId" ColumnName="TypeId" />
+          <ScalarProperty Name="NameAgent" ColumnName="NameAgent" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="INN" ColumnName="INN" />
+          <ScalarProperty Name="KPP" ColumnName="KPP" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="user27Model.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="IdProduct" ColumnName="IdProduct" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Article" ColumnName="Article" />
+          <ScalarProperty Name="MinCost" ColumnName="MinCost" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="TypeProductId" ColumnName="TypeProductId" />
+          <ScalarProperty Name="QuantityPerson" ColumnName="QuantityPerson" />
+          <ScalarProperty Name="NumberFactory" ColumnName="NumberFactory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="user27Model.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeAgent">
+      <EntityTypeMapping TypeName="user27Model.TypeAgent">
+        <MappingFragment StoreEntitySet="TypeAgent">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="NameType" ColumnName="NameType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeProduct">
+      <EntityTypeMapping TypeName="user27Model.TypeProduct">
+        <MappingFragment StoreEntitySet="TypeProduct">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
